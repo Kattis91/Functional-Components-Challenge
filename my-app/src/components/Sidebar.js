@@ -3,7 +3,7 @@ import css from "./css/Sidebar.module.css"
 
 function Sidebar () {
     return (
-        <div div className={css.sidebar} >
+        <div className={css.sidebar} >
             <a href="#">My Photos</a>
             <a href="#">My Illustrations</a>
             <a href="#">MyPaintings</a>
